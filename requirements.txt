@@ -1,0 +1,2 @@
+domeneshop==0.4.4
+domeneshop-bots==0.0.2
